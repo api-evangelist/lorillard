@@ -1,7 +1,12 @@
 aid: lorillard
-url: https://raw.githubusercontent.com/api-evangelist/lorillard/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/lorillard/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.lorillard.com
+description: >-
+  Lorillard was the third-largest cigarette manufacturer in the United States, marketing
+  cigarettes under brand names including Newport, Kent, True, and Old Gold before
+  being acquired by Reynolds American.

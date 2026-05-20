@@ -24,6 +24,8 @@ tags:
   - Tobacco
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lorillard-tobacco-company
   - type: Website
     url: https://www.lorillard.com
   - type: Parent Company

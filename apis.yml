@@ -8,9 +8,20 @@ description: >-
   Reynolds American family of companies. Lorillard does not operate a public
   developer program or API platform.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Subject
 access: Internal
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lorillard.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lorillard/refs/heads/main/apis.yml
 created: '2026-03-24'

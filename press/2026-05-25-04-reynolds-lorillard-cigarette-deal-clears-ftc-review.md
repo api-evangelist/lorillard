@@ -1,7 +1,9 @@
 ---
 title: Reynolds-Lorillard cigarette deal clears FTC review
 url: https://www.chicagotribune.com/2015/05/28/reynolds-lorillard-cigarette-deal-clears-ftc-review/
-date: '2026-05-25'
+published: '2015-05-28'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Lorillard" press release artificial intelligence'
 position: 4
 source: serpapi-google

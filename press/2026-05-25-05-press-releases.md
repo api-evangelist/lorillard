@@ -1,7 +1,9 @@
 ---
 title: Press Releases
 url: https://www.ftc.gov/news-events/news/press-releases?initialSessionID=145-3425135-4977142&page=170
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Lorillard" press release artificial intelligence'
 position: 5
 source: serpapi-google
